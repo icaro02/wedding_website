@@ -1,0 +1,30 @@
+# Site settings
+title: Icaro e Fernanda Wedding
+email: ic.nanda@icloud.com
+url: icaroefernanda.party
+description: "26/11/2016 será um dos momentos mais felizes das nossas vidas!!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Icaro e Fernanda Wedding
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
